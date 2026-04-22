@@ -3,7 +3,7 @@
 ### 💻👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 
 #### ♿ Pessoa com Deficiência Física e TEA nível 1 🧩.
-##### Defensora dos direitos das pessoas com deficiência. 
+##### 💪 Defensora dos direitos das pessoas com deficiência. 
 ##### 📷​ Instagram: @biomed_leticiapedro.
 
 ##### 🧬 **Interesses:** Biotecnologia, Tecnologia Assistiva, Genética, Acessibilidade e Inclusão. 
