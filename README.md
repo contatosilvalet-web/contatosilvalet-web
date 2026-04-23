@@ -1,4 +1,6 @@
-# **Leticia Pedro**
+# **Leticia Pedro** 
+<img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21sZGkxbzAydzR3MzluN3B5MXJrZWxrNWp5NXl6NGgzYm85dWxxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)" width="250">
+
 ##  🔬👩‍🔬​ Biomédica geneticista e pesquisadora.
 ### 💻👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 
@@ -11,4 +13,3 @@
 ##### 🎨 **Hobbies:** Pintar, desenhar e escrever. 
 ##### 🎸 **Artistas favoritos:** My Chemical Romance, Radiohead, Supercombo e Novo Amor. 
 
-<img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21sZGkxbzAydzR3MzluN3B5MXJrZWxrNWp5NXl6NGgzYm85dWxxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)" width="250">
