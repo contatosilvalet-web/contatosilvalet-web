@@ -1,5 +1,4 @@
-# **Leticia Pedro** 
-<img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="250">
+# **Leticia Pedro**                                             <img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="250">
 
 ##  🔬👩‍🔬​ Biomédica geneticista e pesquisadora.
 ### 💻👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
