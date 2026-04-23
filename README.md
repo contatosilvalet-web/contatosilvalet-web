@@ -11,4 +11,4 @@
 ##### 🎨 **Hobbies:** Pintar, desenhar e escrever. 
 ##### 🎸 **Artistas favoritos:** My Chemical Romance, Radiohead, Supercombo e Novo Amor. 
 
-<img src="https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203" />
+![Gatinho no PC](https://media.tenor.com/C9_8Mv7F758AAAAC/gatinho-gato.gif)
