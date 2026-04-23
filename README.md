@@ -1,4 +1,4 @@
-# Leticia Pedro
+# **Leticia Pedro**
 ##  🔬👩‍🔬​ Biomédica geneticista e pesquisadora.
 ### 💻👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 
@@ -10,3 +10,5 @@
 
 ##### 🎨 **Hobbies:** Pintar, desenhar e escrever. 
 ##### 🎸 **Artistas favoritos:** My Chemical Romance, Radiohead, Supercombo e Novo Amor. 
+
+![https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203.]
