@@ -11,4 +11,4 @@
 ##### 🎨 **Hobbies:** Pintar, desenhar e escrever. 
 ##### 🎸 **Artistas favoritos:** My Chemical Romance, Radiohead, Supercombo e Novo Amor. 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3Z6ZzR6bmZ3bmZ6ZzR6bmZ3bmZ6ZzR6bmZ3bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/v6aOebdEG8wN2/giphy.gif" width="250">
+<img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21sZGkxbzAydzR3MzluN3B5MXJrZWxrNWp5NXl6NGgzYm85dWxxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)" width="250">
