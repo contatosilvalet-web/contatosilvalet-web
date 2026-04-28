@@ -1,4 +1,4 @@
-# <span style="color:rgb(0, 128, 0)">**Leticia Pedro**</span>                                        
+# <span style="color:rgb(0, 128, 0)">Leticia Pedro</span>                                        
 
 Olá! <img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="150">
 Sou Leticia, Biomédica Geneticista e graduanda em Análise e Desenvolvimento de Sistemas, unindo ciência e código. Pesquisadora dedicada a biotecnologia, acessibilidade e inclusão. Transformando dados e genética em ferramentas de impacto social. 
