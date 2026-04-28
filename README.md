@@ -1,5 +1,11 @@
-# #ff0000 Leticia Pedro
-                         
+```markdown
+$\color{green}{\text{Leticia Pedro}}$
+
+$\color{#2ecc71}{\text{Leticia Pedro}}$
+
+```diff
++ Leticia Pedro
+
 Olá! <img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="150">
 Sou Leticia, Biomédica Geneticista e graduanda em Análise e Desenvolvimento de Sistemas, unindo ciência e código. Pesquisadora dedicada a biotecnologia, acessibilidade e inclusão. Transformando dados e genética em ferramentas de impacto social. 
 
