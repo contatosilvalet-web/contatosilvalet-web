@@ -1,4 +1,4 @@
-# + *Leticia Pedro*
+![Leticia Pedro](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2ECC71&width=435&lines=Leticia+Pedro)
 
 Olá! <img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="150">
 Sou Leticia, Biomédica Geneticista e graduanda em Análise e Desenvolvimento de Sistemas, unindo ciência e código. Pesquisadora dedicada a biotecnologia, acessibilidade e inclusão. Transformando dados e genética em ferramentas de impacto social. 
