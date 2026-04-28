@@ -16,4 +16,3 @@ Sou Leticia, Biomédica Geneticista e graduanda em Análise e Desenvolvimento de
 ##### 🎸 **Artistas favoritos:** My Chemical Romance, Radiohead, Supercombo e Novo Amor. 
 ##### 🐱🐶🐭 **Apaixonada por animais**. Tenho uma gatinha tricolor chamada **Melissa** 🐈.
 
-![Snake animation](https://github.com/seu-usuario/contatosilvalet-web/blob/output/github-contribution-grid-snake.svg)
