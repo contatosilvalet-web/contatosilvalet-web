@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Biom%C3%A9dica+%26+P%C3%B3s-graduanda;Futura+Desenvolvedora+de+Software;Explorando+Gen%C3%A9tica+%2B+Tecnologia;Foco+em+Acessibilidade+Digital+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/leticia-da-silva-pedro-472367236/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -25,13 +19,12 @@
 
 ### 👩‍💻 Sobre Mim
 
-```javascript
-const leticia = {
-  formacao: ["Biomedicina", "Genética & Biologia Molecular", "Análise e Desenvolvimento de Sistemas"],
-  interesses: ["Desenvolvimento Web", "Bioinformática", "Acessibilidade Digital", "Tecnologias Assistivas"],
-  tecnologiasAtuais: ["JavaScript", "Python", "HTML5/CSS3", "Git/GitHub"],
-  desafioAtual: "Construir aplicações web acessíveis e funcionais"
-};
+- 🔬 Graduada em Biomedicina e pós-graduanda em Biologia Molecular e Genética.
+- 💻 Atualmente a aprofundar estudos em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e bioinformática.
+- 💡 Interesses em tecnologias assistivas, acessibilidade digital e desenvolvimento inclusivo.
+- 📚 Praticando lógica de programação, JavaScript, Python e controlo de versões com Git e GitHub.
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -44,13 +37,7 @@ const leticia = {
   <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-### 🏆 Troféus de Atividade
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=contatosilvalet-web&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Troféus do GitHub" />
-  </a>
-</p>
+---
 
 ### 📊 Estatísticas de Atividade
 
