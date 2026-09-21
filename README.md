@@ -21,8 +21,6 @@
   </a>
 </p>
 
----
-
 ### 👩‍💻 Sobre Mim
 
 ```javascript
@@ -32,8 +30,6 @@ const leticia = {
   tecnologiasAtuais: ["JavaScript", "Python", "HTML5/CSS3", "Git/GitHub"],
   desafioAtual: "Construir aplicações web acessíveis e funcionais"
 };
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -45,8 +41,6 @@ const leticia = {
   <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
-
----
 
 ### 🏆 Troféus de Atividade
 
