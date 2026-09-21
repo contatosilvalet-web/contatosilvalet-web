@@ -21,6 +21,8 @@
   </a>
 </p>
 
+---
+
 ### 👩‍💻 Sobre Mim
 
 ```javascript
