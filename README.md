@@ -60,7 +60,8 @@
 <h3>🏆 Troféus de Atividade</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=contatosilvalet-web&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Troféus do GitHub" />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=contatosilvalet-web&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </div>
