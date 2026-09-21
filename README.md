@@ -1,9 +1,9 @@
-<h1 align="center">Olá, eu sou a Letícia Pedro! 👋🧬💻</h1>
+<h1 align="center">Olá, eu sou a Leticia Pedro! 👋🧬💻</h1>
 
 <h3 align="center">Biomédica | Graduanda em Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
-  Combinando meu background na área da saúde com o universo da programação.
+  Combinando o meu background na área da saúde com o universo da programação e da computação.
 </p>
 
 <p align="center">
@@ -14,6 +14,15 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+---
+
+### 👩‍💻 Sobre Mim
+
+- 🔬 Graduada em Biomedicina e pós-graduanda em Biologia Molecular e Genética.
+- 💻 Atualmente a aprofundar estudos em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e bioinformática.
+- 💡 Interesses em tecnologias assistivas, acessibilidade digital e desenvolvimento inclusivo.
+- 📚 Praticando lógica de programação, JavaScript, Python e controlo de versões com Git e GitHub.
 
 ---
 
@@ -30,17 +39,11 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas de Atividade
 
 <p align="center">
   <img 
-    alt="Estatísticas do GitHub" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=contatosilvalet-web&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens Mais Utilizadas" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatosilvalet-web&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=6" 
+    src="https://streak-stats.demolab.com?user=contatosilvalet-web&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
   />
 </p>
