@@ -57,11 +57,10 @@
   />
 </p>
 
-<h3>🏆 Troféus de Atividade</h3>
-
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=contatosilvalet-web&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=contatosilvalet-web&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" 
+    alt="Resumo GitHub" 
   />
 </div>
+
