@@ -38,7 +38,6 @@
 - 💻 Atualmente a aprofundar estudos em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e bioinformática.
 - 💡 Interesses em tecnologias assistivas, acessibilidade digital e desenvolvimento inclusivo.
 - 📚 Praticando lógica de programação, JavaScript, Python e controlo de versões com Git e GitHub.
-- 🚀 **Confira meus projetos interativos:** [portfolio-leticia-pedro.lovable.app](https://portfolio-leticia-pedro.lovable.app/)
 
 ---
 
