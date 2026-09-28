@@ -1,10 +1,6 @@
 <img width="1500" height="500" alt="LETICIA PEDRO" src="https://github.com/user-attachments/assets/c3ff45f9-48cd-4533-9244-b997b44996d5"/>
 
 <p align="center">
-  **`Combinando o meu background na área da saúde com o universo da programação e da computação.`**
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Biom%C3%A9dica+%26+P%C3%B3s-graduanda;Futura+Desenvolvedora+de+Software;Explorando+Gen%C3%A9tica+%2B+Tecnologia;Foco+em+Acessibilidade+Digital+%E2%9C%A8" alt="Typing SVG" />
   </a>
