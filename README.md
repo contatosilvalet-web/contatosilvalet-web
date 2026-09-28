@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-leticia-pedro.lovable.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Acesse_meu_Portf%C3%B3lio-Clique_Aqui!-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00DFD8" alt="Acesse meu Portfólio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/leticia-da-silva-pedro-472367236/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -32,6 +38,7 @@
 - 💻 Atualmente a aprofundar estudos em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e bioinformática.
 - 💡 Interesses em tecnologias assistivas, acessibilidade digital e desenvolvimento inclusivo.
 - 📚 Praticando lógica de programação, JavaScript, Python e controlo de versões com Git e GitHub.
+- 🚀 **Confira meus projetos interativos:** [portfolio-leticia-pedro.lovable.app](https://portfolio-leticia-pedro.lovable.app/)
 
 ---
 
@@ -63,4 +70,3 @@
     alt="Resumo GitHub" 
   />
 </div>
-
