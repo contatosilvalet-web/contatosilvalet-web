@@ -1,6 +1,4 @@
-<h1 align="center">Olá, eu sou a Leticia Pedro! 👋🧬💻</h1>
-
-<h3 align="center">Biomédica | Graduanda em Análise e Desenvolvimento de Sistemas</h3>
+<img width="1500" height="500" alt="LETICIA PEDRO" src="https://github.com/user-attachments/assets/c3ff45f9-48cd-4533-9244-b997b44996d5"/>
 
 <p align="center">
   Combinando o meu background na área da saúde com o universo da programação e da computação.
