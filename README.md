@@ -1,7 +1,7 @@
 <img width="1500" height="500" alt="LETICIA PEDRO" src="https://github.com/user-attachments/assets/c3ff45f9-48cd-4533-9244-b997b44996d5"/>
 
 <p align="center">
-  **Combinando o meu background na área da saúde com o universo da programação e da computação.**
+  **Combinando o meu background na área da saúde com o universo da programação e da computação.
 </p>
 
 <p align="center">
